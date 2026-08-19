@@ -12,7 +12,7 @@ Not long ago, I was managing and patching Solaris/Linux clusters and architectin
 
 Somewhere between debugging SCSI timeout issues with Red Hat's engineering team and orchestrating disaster recovery events across time zones, I got restless. Hung up and cleared the CFA(L1/L2), built (and eventually wound down) an EdTech venture, and decided the next problem worth obsessing over was AI.
 
-Today, my work centers on Deep Learning, Generative AI, AI Systems and Model Optimization—from experimenting with architectures and training models to optimizing inference and engineering for real-world deployment constraints.
+Today, my work centers on Deep Learning, Generative AI, AI Systems and Model Optimization-from experimenting with architectures and training models to optimizing inference and engineering for real-world deployment constraints.
 
 My hands-on work spans LLMs, Computer Vision, NLP, synthetic data, anomaly detection, RAG, PEFT/alignment, MLOps and inference optimization. I have worked with quantization/QAT, pruning, knowledge distillation, KV caching, speculative decoding, LoRA/QLoRA, DPO/GRPO, distributed inference and hardware-aware optimization.
 
