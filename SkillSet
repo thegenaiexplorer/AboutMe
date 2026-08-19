@@ -1,0 +1,12 @@
+TECHNICAL SKILLS
+LLM Systems and Inference: KV-caching, structured and attention-head pruning, quantization (INT8/QAT), from-scratch speculative decoding, DeepSpeed tensor/pipeline parallelism, batch inferencing
+Fine-Tuning, PEFT and Alignment: LoRA, QLoRA, soft-prompt tuning, DPO, GRPO, reward modeling, instruction tuning
+RAG and LLM Applications: Embeddings, cosine-similarity retrieval, LangChain, Chroma vector DB, intent classification and multi-model routing
+Model Compression and Edge Deployment: Knowledge distillation, structured pruning, ONNX graph optimization, TorchScript Mobile, hardware-aware architecture redesign
+MLOps and Cloud Infrastructure: AWS SageMaker, Docker, Amazon ECR, Lambda, API Gateway, multi-model endpoints, A/B testing, autoscaling, Gradio deployment
+Computer Vision: CNN design (from scratch and transfer learning), Vision Transformers, object detection (YOLO), OCR (TrOCR), segmentation (ResUNet, CBAM), Grad-CAM
+Generative and Multimodal AI: GANs (DCGAN, cGAN), Diffusion Models (DDPM), CLIP, image captioning
+NLP and Sequence Modeling: From-scratch transformer architectures, machine translation, text classification (NER, spam, hate speech)
+Core ML Engineering: PyTorch, TensorFlow, Hugging Face Transformers, custom training scripts and data collators, BLEU/BERTScore/ROUGE/mIoU/mAP/F1-Score
+Medical Imaging and Segmentation: CBAM-ResUNet-50, semantic segmentation under extreme class imbalance, Dice Loss + Categorical Cross-Entropy, DICOM preprocessing, mIoU/accuracy-driven evaluation across MRI, microscopy, X-ray, and CT modalities
+Systems Engineering Foundation: Production infrastructure architecture, HA clustering, disaster recovery design, incident RCA workflows, informing a production-first approach to ML
