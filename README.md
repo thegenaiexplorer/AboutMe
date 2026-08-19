@@ -1,5 +1,4 @@
 # AboutMe
-AboutMe
 I am:
 - Driven by curiosity.
 - A few-shot learner.
