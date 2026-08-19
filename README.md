@@ -3,6 +3,7 @@ I am:
 - Driven by curiosity.
 - A few-shot learner.
 - A multipotentialite / polymath.
+- 
 Rest everything follows...
 
 My career has been less about staying within one technology or role and more about understanding how things work, how they connect, and how they can be made better.
